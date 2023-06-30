@@ -1,8 +1,8 @@
-# Web Dev Essentials + Awesome Themes
+# 👨🏻‍💻 Web Dev Essentials + 🎨 Awesome Themes
 
 This is my personal VS Code extension pack. It includes a collection of extensions that I find useful for my development workflow.
 
-![Picture of Code](code.png)
+![Picture of Code](assets/code.png)
 
 ## Extensions Included
 
@@ -20,11 +20,13 @@ To install this extension pack, follow these steps:
 1. Open Visual Studio Code
 2. Press `Ctrl+P` to open the Quick Open dialog
 3. Type <br>
-   `ext install willys-webdev-extensions`
+   ```
+   ext install willys-webdev-extensions
+   ```
 
 ## Contributing
 
-If you want to suggest an extension to this pack, please open an issue in the GitHub repository.
+If you want to suggest an extension to this pack, please open an issue in the GitHub repository, don't pull request.
 
 ## License
 
