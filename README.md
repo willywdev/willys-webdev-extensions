@@ -30,8 +30,16 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/npm-intellisense/1.4.4/1671487986629/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes npm modules in import statements <br> <b>Author: Christian Kohler<b> |
 
+### [📦 ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)<br>
+
+| Icon                                                                                                                                                                    | Description                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.2/1687441427519/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Integrates ESLint JavaScript into VS Code. <br> <b>Author: dbaeumer / Microsoft<b> |
+
 <br>
 <br>
+
+[//]: # "This may be the most platform independent comment"
 
 ## Themes included
 
