@@ -6,10 +6,6 @@
 
 This is my VS Code **Extension Pack**. It includes a collection of extensions that are useful for web development workflow.
 
-<p align="center">
-<img src="assets/code.png" width="350px">
-</p>
-
 ## Extensions Included
 
 ### [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
