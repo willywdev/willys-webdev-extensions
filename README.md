@@ -72,19 +72,34 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 <table>
     <tr>
         <td><img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> </td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug">BADBUG Theme</a> </td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug" target="_blank">BADBUG Theme</a> </td>
     </tr>
     <tr>
         <td><img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/7.2.0/1686298912208/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> </td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple">Shades of Purple</a></td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple" target="_blank">Shades of Purple</a></td>
     </tr>
+    <tr>
+      <td><img src="https://arcticicestudio.gallerycdn.vsassets.io/extensions/arcticicestudio/nord-visual-studio-code/0.19.0/1632602657822/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code" target="_blank">Nord</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://azemoh.gallerycdn.vsassets.io/extensions/azemoh/one-monokai/0.5.0/1602835241556/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai" target="_blank">One Monokai Theme</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/dracula/2.2/1658152493111/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula" target="_blank">Dracula Official</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://eliverlara.gallerycdn.vsassets.io/extensions/eliverlara/andromeda/1.8.1/1681419874021/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank">Andromeda</a></td>
+    </tr>
+    <tr>
+      <td><img src="" width="35px"></td>
+      <td><a href="" target="_blank"></a></td>
+    </tr>
+    
 </table>
-
--
-- <img src="https://arcticicestudio.gallerycdn.vsassets.io/extensions/arcticicestudio/nord-visual-studio-code/0.19.0/1632602657822/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code">Nord</a>
-- <img src="https://azemoh.gallerycdn.vsassets.io/extensions/azemoh/one-monokai/0.5.0/1602835241556/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai">One Monokai Theme</a>
-- <img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/dracula/2.2/1658152493111/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula">Dracula Official</a>
-- <img src="https://eliverlara.gallerycdn.vsassets.io/extensions/eliverlara/andromeda/1.8.1/1681419874021/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda">Dracula Official</a>
 
 ## Installation #1
 
