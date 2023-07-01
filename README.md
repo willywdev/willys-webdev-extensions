@@ -19,9 +19,9 @@ This is my personal VS Code extension pack. It includes a collection of extensio
 
 ### [🎨 BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
 
-<img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="64px">
-
-> A collection of beautifully crafted modern themes for VSCode.
+| Icon                                                                                                                                           | Description                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| <img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default"> | A collection of beautifully crafted modern themes for VSCode. |
 
 ## Installation #1
 
