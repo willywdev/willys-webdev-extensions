@@ -1,6 +1,6 @@
 # 📦 Web Dev Essentials + 🎨 Awesome Themes
 
-This is my personal VS Code extension pack. It includes a collection of extensions that I find useful for my development workflow.
+This is my VS Code **Extension Pack**. It includes a collection of extensions that are useful for web development workflow.
 
 <p align="center">
 <img src="assets/logo.png"/><br>
