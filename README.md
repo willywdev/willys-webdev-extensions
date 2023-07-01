@@ -1,9 +1,12 @@
 # 📦 Web Dev Essentials + 🎨 Awesome Themes
 
+<p align="center">
+<img src="assets/logo.png"/><br>
+</p>
+
 This is my VS Code **Extension Pack**. It includes a collection of extensions that are useful for web development workflow.
 
 <p align="center">
-<img src="assets/logo.png"/><br>
 <img src="assets/code.png" width="350px">
 </p>
 
