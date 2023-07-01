@@ -73,6 +73,7 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 - <img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/7.2.0/1686298912208/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple">Shades of Purple</a>
 - <img src="https://arcticicestudio.gallerycdn.vsassets.io/extensions/arcticicestudio/nord-visual-studio-code/0.19.0/1632602657822/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code">Nord</a>
 - <img src="https://azemoh.gallerycdn.vsassets.io/extensions/azemoh/one-monokai/0.5.0/1602835241556/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai">One Monokai Theme</a>
+- <img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/dracula/2.2/1658152493111/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula">Dracula Official</a>
 
 ## Installation #1
 
