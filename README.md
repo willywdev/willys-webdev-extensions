@@ -67,9 +67,9 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 
 [//]: # "This may be the most platform independent comment"
 
-## Themes included
+## 🎨 Themes included
 
-- [🎨 BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
+- <img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug">BADBUG Theme</a><br>
 
 ## Installation #1
 
