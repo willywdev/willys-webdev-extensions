@@ -62,6 +62,12 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/0.0.172/1688104000055/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | JavaScript console.log output and runtime errors right next to your code. <br> <b>Author: Wallaby.js ([wallabyjs.com](https://wallabyjs.com/))<b> |
 
+### [📦 Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)<br>
+
+| Icon                                                                                                                                                                                   | Description                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| <img src="https://bierner.gallerycdn.vsassets.io/extensions/bierner/markdown-preview-github-styles/2.0.2/1681935899511/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Changes VS Code's built-in markdown preview to match Github's style <br> <b>Author: Matt Bierner<b> |
+
 <br>
 <br>
 
@@ -110,6 +116,35 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
       <td><img src="https://robbowen.gallerycdn.vsassets.io/extensions/robbowen/synthwave-vscode/0.1.15/1670610064896/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode" target="_blank">SynthWave '84</a></td>
     </tr>
+    <tr>
+      <td><img src="https://sdras.gallerycdn.vsassets.io/extensions/sdras/night-owl/2.0.1/1625369748311/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl" target="_blank">Night Owl</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://wesbos.gallerycdn.vsassets.io/extensions/wesbos/theme-cobalt2/2.4.2/1685023390425/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2" target="_blank">Cobalt2 Theme Official</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.15.17/1686139075401/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme" target="_blank">One Dark Pro</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://teabyii.gallerycdn.vsassets.io/extensions/teabyii/ayu/1.0.5/1630928048471/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=teabyii.ayu" target="_blank">Ayu</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.4/1680003819182/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme" target="_blank">GitHub Theme</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://liviuschera.gallerycdn.vsassets.io/extensions/liviuschera/noctis/10.40.0/1624923723311/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis" target="_blank">Noctis</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://monokai.gallerycdn.vsassets.io/extensions/monokai/theme-monokai-pro-vscode/1.2.1/1683098850186/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode" target="_blank">Monokai Pro</a></td>
+    </tr>
+    
 </table>
 
 ## Installation #1

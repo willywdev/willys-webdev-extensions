@@ -33,15 +33,14 @@
     "PKief.material-icon-theme",
     "ritwickdey.LiveServer",
     "RobbOwen.synthwave-vscode",
-    "rokoroku.vscode-theme-darcula",
     "sdras.night-owl",
-    "soft-aesthetic.soft-era-theme",
-    "Sujan.code-blue",
-    "thegeoffstevens.best-colorful-themes-pack",
-    "thegeoffstevens.best-dark-themes-pack",
     "WallabyJs.console-ninja",
     "wesbos.theme-cobalt2",
-    "whizkydee.material-palenight-theme",
-    "zhuangtongfa.material-theme"
+    "zhuangtongfa.material-theme",
+    "teabyii.ayu",
+    "GitHub.github-vscode-theme",
+    "bierner.markdown-preview-github-styles",
+    "liviuschera.noctis",
+    "monokai.theme-monokai-pro-vscode"
   ]
 }
