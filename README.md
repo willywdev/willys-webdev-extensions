@@ -1,7 +1,7 @@
 # 📦 Web Dev Essentials + 🎨 Awesome Themes
 
 <p align="center">
-<img src="assets/logo.png"/><br>
+<a href="https://marketplace.visualstudio.com/items?itemName=willywdev.willys-webdev-extensions"><img src="assets/logo.png"/></a><br>
 </p>
 
 Introducing my VS Code Extension Pack, the ultimate toolkit for web development. This all-in-one pack includes essential extensions for a seamless coding experience. From linting and autocompletion to JavaScript support, it has everything you need to write clean and efficient code. Plus, enjoy a wide range of themes to personalize your coding environment. Enhance your productivity and unleash your creativity with my VS Code Extension Pack for web development.
