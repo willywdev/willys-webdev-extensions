@@ -36,6 +36,12 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.2/1687441427519/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Integrates ESLint JavaScript into VS Code. <br> <b>Author: dbaeumer / Microsoft<b> |
 
+### [📦 HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)<br>
+
+| Icon                                                                                                                                                                 | Description                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| <img src="https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/1.13.1/1659218422410/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | CSS Intellisense for HTML <br> <b>Author: ecmel<b> |
+
 <br>
 <br>
 
