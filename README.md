@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Web Dev Essentials + 🎨 Awesome Themes
+# 📦 Web Dev Essentials + 🎨 Awesome Themes
 
 This is my personal VS Code extension pack. It includes a collection of extensions that I find useful for my development workflow.
 
@@ -9,17 +9,15 @@ This is my personal VS Code extension pack. It includes a collection of extensio
 
 ## Extensions Included
 
-In this extension pack, the following extensions are included:
+### [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
 
-### [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
-
-| Icon                                                                                                                                                                       | Quote                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="64px"> | `Improve your code commenting by annotating with alert, informational, TODOs, and more!` |
+| Icon                                                                                                                                                          | Description                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default"> | Improve your code commenting by annotating with alert, informational, TODOs, and more! |
 
 ## Themes included
 
-### [BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
+### [🎨 BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
 
 <img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="64px">
 
