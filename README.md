@@ -16,7 +16,7 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 
 | Icon                                                                                                                                                                          | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="128px"  > | Improve your code commenting by annotating with alert, informational, TODOs, and more! <br> <b>Author: Aaron Bond<b> |
+| <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Improve your code commenting by annotating with alert, informational, TODOs, and more! <br> <b>Author: Aaron Bond<b> |
 
 ### [📦 CodeSnap](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
 
