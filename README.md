@@ -70,6 +70,7 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 ## 🎨 Themes included
 
 - <img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug">BADBUG Theme</a><br>
+- <img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/7.2.0/1686298912208/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple">Shades of Purple</a><br>
 
 ## Installation #1
 
