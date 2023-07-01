@@ -56,6 +56,12 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Launch a development local Server with live reload feature for static & dynamic pages <br> <b>Author: Ritwick Dey<b> |
 
+### [📦 Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)<br>
+
+| Icon                                                                                                                                                                        | Description                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/0.0.172/1688104000055/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | JavaScript console.log output and runtime errors right next to your code. <br> <b>Author: Wallaby.js ([wallabyjs.com](https://wallabyjs.com/))<b> |
+
 <br>
 <br>
 
