@@ -2,7 +2,7 @@
 
 This is my personal VS Code extension pack. It includes a collection of extensions that I find useful for my development workflow.
 
-<div style="align:center"><img src="assets/logo.png"/></div>
+<p align="center"><img src="assets/logo.png"/></p>
 
 ![Picture of Code](assets/code.png)
 
