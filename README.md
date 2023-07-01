@@ -69,23 +69,18 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 
 ## 🎨 Themes included
 
-|                                                                                                                                                             |                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> | <a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug">BADBUG Theme</a> |
-| Normal Key                                                                                                                                                  |
-
 <table>
     <tr>
-        <td>some</td>
-        <td>Some other text</td>
+        <td><img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> </td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug">BADBUG Theme</a> </td>
     </tr>
     <tr>
-        <td>some</td>
-        <td>Some other text 2</td>
+        <td><img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/7.2.0/1686298912208/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> </td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple">Shades of Purple</a></td>
     </tr>
 </table>
 
-- <img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/7.2.0/1686298912208/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple">Shades of Purple</a>
+-
 - <img src="https://arcticicestudio.gallerycdn.vsassets.io/extensions/arcticicestudio/nord-visual-studio-code/0.19.0/1632602657822/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code">Nord</a>
 - <img src="https://azemoh.gallerycdn.vsassets.io/extensions/azemoh/one-monokai/0.5.0/1602835241556/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai">One Monokai Theme</a>
 - <img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/dracula/2.2/1658152493111/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> <a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula">Dracula Official</a>
