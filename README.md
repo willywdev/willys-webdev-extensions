@@ -50,11 +50,11 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 | <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does. <br> <b>Author: Jun Han<b> |
 
-### [📦 npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)<br>
+### [📦 Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)<br>
 
-| Icon                                                                                                                                                                                       | Description                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/npm-intellisense/1.4.4/1671487986629/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes npm modules in import statements <br> <b>Author: Christian Kohler<b> |
+| Icon                                                                                                                                                                     | Description                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Launch a development local Server with live reload feature for static & dynamic pages <br> <b>Author: Ritwick Dey<b> |
 
 <br>
 <br>
