@@ -68,6 +68,12 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | <img src="https://bierner.gallerycdn.vsassets.io/extensions/bierner/markdown-preview-github-styles/2.0.2/1681935899511/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Changes VS Code's built-in markdown preview to match Github's style <br> <b>Author: Matt Bierner<b> |
 
+### [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)<br>
+
+| Icon                                                                                                                                                                                              | Description                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.20.5/1686559289367/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low. <br> <b>Author: Street Side Software ([streetsidesoftware.com](https://streetsidesoftware.com/))<b> |
+
 <br>
 <br>
 

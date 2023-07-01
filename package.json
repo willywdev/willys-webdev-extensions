@@ -41,6 +41,7 @@
     "GitHub.github-vscode-theme",
     "bierner.markdown-preview-github-styles",
     "liviuschera.noctis",
-    "monokai.theme-monokai-pro-vscode"
+    "monokai.theme-monokai-pro-vscode",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
