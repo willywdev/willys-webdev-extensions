@@ -16,6 +16,8 @@ In this extension pack, the following extensions are included:
 <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="64px">
 
 > Improve your code commenting by annotating with alert, informational, TODOs, and more!
+> | --- | --- |
+> | test | test |
 
 ## Themes included
 
