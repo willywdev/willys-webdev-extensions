@@ -14,19 +14,17 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 
 ### [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
 
-| Icon                                                                                                                                                                          | Description                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Improve your code commenting by annotating with alert, informational, TODOs, and more! <br> **~ Author: Aaron Bond** |
+| Icon                                                                                                                                                                          | Description                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Improve your code commenting by annotating with alert, informational, TODOs, and more! <br> <b>~ Author: Aaron Bond<b> |
 
 ### [📦 CodeSnap](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
 
-| Icon                                                                                                                                                           | Description                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Take beautiful screenshots of your code in VS Code! <br> **~ Author: adpyke** |
+| Icon                                                                                                                                                           | Description                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Take beautiful screenshots of your code in VS Code! <br> <b>~ Author: adpyke<b> |
 
 ## Themes included
-
----
 
 ### [🎨 BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
 
