@@ -95,10 +95,21 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
       <td><a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank">Andromeda</a></td>
     </tr>
     <tr>
-      <td><img src="" width="35px"></td>
-      <td><a href="" target="_blank"></a></td>
+      <td><img src="https://mathcale.gallerycdn.vsassets.io/extensions/mathcale/theme-dracula-refined/2.24.3/1659645707625/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined" target="_blank">Dracula Refined</a></td>
     </tr>
-    
+    <tr>
+      <td><img src="https://modonoob.gallerycdn.vsassets.io/extensions/modonoob/vscode-hipster-theme/1.0.2/1530667778545/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=ModoNoob.vscode-hipster-theme" target="_blank">Hipster Theme</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.28.0/1685553213136/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" target="_blank">Material Icon Theme</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://robbowen.gallerycdn.vsassets.io/extensions/robbowen/synthwave-vscode/0.1.15/1670610064896/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode" target="_blank">SynthWave '84</a></td>
+    </tr>
 </table>
 
 ## Installation #1
