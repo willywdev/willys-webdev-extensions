@@ -24,6 +24,15 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | <img src="https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Take beautiful screenshots of your code in VS Code! <br> <b>Author: adpyke<b> |
 
+### [📦 npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)<br>
+
+| Icon                                                                                                                                                                                       | Description                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/npm-intellisense/1.4.4/1671487986629/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes npm modules in import statements <br> <b>Author: Christian Kohler<b> |
+
+<br>
+<br>
+
 ## Themes included
 
 ### [🎨 BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
