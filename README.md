@@ -26,6 +26,8 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 
 ## Themes included
 
+---
+
 ### [🎨 BADBUG Theme](https://marketplace.visualstudio.com/items?itemName=1mandev.badbug&utm_source=VSCode.pro&utm_campaign=AhmadAwais)<br>
 
 | Icon                                                                                                                                                         | Description                                                   |
