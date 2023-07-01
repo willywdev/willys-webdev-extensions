@@ -42,6 +42,12 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | <img src="https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/1.13.1/1659218422410/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | CSS Intellisense for HTML <br> <b>Author: ecmel<b> |
 
+### [📦 Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)<br>
+
+| Icon                                                                                                                                                                   | Description                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.19.0/1688136182631/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Code formatter using prettier <br> <b>Author: Prettier ([Prettier.io](https://prettier.io/))<b> |
+
 <br>
 <br>
 
