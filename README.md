@@ -4,7 +4,7 @@
 <img src="assets/logo.png"/><br>
 </p>
 
-This is my VS Code **Extension Pack**. It includes a collection of extensions that are useful for web development workflow.
+Introducing my VS Code Extension Pack, the ultimate toolkit for web development. This all-in-one pack includes essential extensions for a seamless coding experience. From linting and autocompletion to JavaScript support, it has everything you need to write clean and efficient code. Plus, enjoy a wide range of themes to personalize your coding environment. Enhance your productivity and unleash your creativity with my VS Code Extension Pack for web development.
 
 ## Extensions Included
 
