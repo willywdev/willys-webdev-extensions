@@ -48,6 +48,12 @@ This is my VS Code **Extension Pack**. It includes a collection of extensions th
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.19.0/1688136182631/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Code formatter using prettier <br> <b>Author: Prettier ([Prettier.io](https://prettier.io/))<b> |
 
+### [📦 Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)<br>
+
+| Icon                                                                                                                                                                                 | Description                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does. <br> <b>Author: Jun Han<b> |
+
 <br>
 <br>
 
