@@ -161,14 +161,14 @@ To install this extension pack, follow these steps:
 2. Press `Ctrl+P` to open the Quick Open dialog
 3. Type <br>
    ```
-   ext install willys-webdev-extensions
+   ext install willywdev.willys-webdev-extensions
    ```
 
 ## Installation #2
 
 1. Open Visual Studio Code
 2. Click on Extensions
-3. Search for "willys-webdev-extensions"
+3. Search for "willywdev.willys-webdev-extensions"
 
 ## Contributing
 
