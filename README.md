@@ -56,11 +56,11 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.9/1661914858952/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Launch a development local Server with live reload feature for static & dynamic pages <br> <b>Author: Ritwick Dey<b> |
 
-### [📦 Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)<br>
+### [📦 Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)<br>
 
-| Icon                                                                                                                                                                        | Description                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/0.0.172/1688104000055/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | JavaScript console.log output and runtime errors right next to your code. <br> <b>Author: Wallaby.js ([wallabyjs.com](https://wallabyjs.com/))<b> |
+| Icon                                                                                                                                                                               | Description                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.11.1/1619866227538/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | This extension your styles files looking for colors and generate a colored background (using the color) for each of them. <br> <b>Author: kamikillerto<b> |
 
 ### [📦 Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)<br>
 
@@ -73,6 +73,18 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
 | Icon                                                                                                                                                                                              | Description                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.20.5/1686559289367/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low. <br> <b>Author: Street Side Software ([streetsidesoftware.com](https://streetsidesoftware.com/))<b> |
+
+### [📦 Font Preview](https://marketplace.visualstudio.com/items?itemName=ctcuff.font-preview)<br>
+
+| Icon                                                                                                                                                               | Description                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://ctcuff.gallerycdn.vsassets.io/extensions/ctcuff/font-preview/2.2.1/1658365554442/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | An extension that lets you view fonts straight in your editor. Try out different font feature settings, mess with variable font axes, and view glyphs without leaving VS Code <br> <b>Author: ctcuff<b> |
+
+### [📦 Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)<br>
+
+| Icon                                                                                                                                                                                        | Description                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/2.8.4/1671488165155/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes filenames. <br> <b>Author: Christian Kohler<b> |
 
 <br>
 <br>
@@ -150,7 +162,7 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
       <td><img src="https://monokai.gallerycdn.vsassets.io/extensions/monokai/theme-monokai-pro-vscode/1.2.1/1683098850186/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode" target="_blank">Monokai Pro</a></td>
     </tr>
-    
+
 </table>
 
 ## Installation #1
@@ -160,6 +172,7 @@ To install this extension pack, follow these steps:
 1. Open Visual Studio Code
 2. Press `Ctrl+P` to open the Quick Open dialog
 3. Type <br>
+
    ```
    ext install willywdev.willys-webdev-extensions
    ```

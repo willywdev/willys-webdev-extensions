@@ -3,7 +3,7 @@
   "publisher": "willywdev",
   "displayName": "Web Dev Essentials + Awesome Themes",
   "description": "This is my VS Code Extension Pack. It includes a collection of extensions that are useful for web development workflow.",
-  "version": "0.0.3",
+  "version": "1.0",
   "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.79.0"
@@ -35,7 +35,6 @@
     "ritwickdey.LiveServer",
     "RobbOwen.synthwave-vscode",
     "sdras.night-owl",
-    "WallabyJs.console-ninja",
     "wesbos.theme-cobalt2",
     "zhuangtongfa.material-theme",
     "teabyii.ayu",
@@ -43,6 +42,9 @@
     "bierner.markdown-preview-github-styles",
     "liviuschera.noctis",
     "monokai.theme-monokai-pro-vscode",
-    "streetsidesoftware.code-spell-checker"
+    "streetsidesoftware.code-spell-checker",
+    "kamikillerto.vscode-colorize",
+    "ctcuff.font-preview",
+    "christian-kohler.path-intellisense"
   ]
 }
