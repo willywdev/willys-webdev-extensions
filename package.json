@@ -3,7 +3,7 @@
   "publisher": "willywdev",
   "displayName": "Web Dev Essentials + Awesome Themes",
   "description": "This is my VS Code Extension Pack. It includes a collection of extensions that are useful for web development workflow.",
-  "version": "1.0",
+  "version": "1.0.0",
   "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.79.0"

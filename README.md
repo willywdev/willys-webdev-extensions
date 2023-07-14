@@ -89,8 +89,6 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
 <br>
 <br>
 
-[//]: # "This may be the most platform independent comment"
-
 ## 🎨 Themes included
 
 <table>
