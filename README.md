@@ -6,7 +6,7 @@
 
 Introducing my VS Code Extension Pack, the ultimate toolkit for web development. This all-in-one pack includes essential extensions for a seamless coding experience. From linting and autocompletion to JavaScript support, it has everything you need to write clean and efficient code. Plus, enjoy a wide range of themes to personalize your coding environment. Enhance your productivity and unleash your creativity with my VS Code Extension Pack for web development.
 
-## Extensions Included
+## Extensions included
 
 ### [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
 
