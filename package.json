@@ -28,6 +28,13 @@
     "ecmel.vscode-html-css",
     "ms-vscode.live-server",
     "DavidAnson.vscode-markdownlint",
-    "christian-kohler.npm-intellisense"
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "maurodesouza.vscode-simple-readme",
+    "SimonSiefke.svg-preview",
+    "bradlc.vscode-tailwindcss",
+    "meganrogge.template-string-converter",
+    "styled-components.vscode-styled-components"
   ]
 }

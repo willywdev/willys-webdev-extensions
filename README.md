@@ -86,13 +86,51 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/npm-intellisense/1.4.4/1671487986629/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes npm modules in import statements <br> <b>Author: Christian Kohler</b> |
 
+### [📦 Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)<br>
+
+| Icon                                                                                                                                                                                        | Description                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/2.8.4/1671488165155/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes filenames <br> <b>Author: Christian Kohler</b> |
+
+### [📦 Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)<br>
+
+| Icon                                                                                                                                                                   | Description                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/10.1.0/1690819498575/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Code formatter using prettier <br> <b>Author: Prettier</b> |
+
+### [📦 Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)<br>
+
+| Icon                                                                                                                                                                                   | Description                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| <img src="https://maurodesouza.gallerycdn.vsassets.io/extensions/maurodesouza/vscode-simple-readme/1.0.2/1645329256706/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Generate readme fastly and simply with Simple Readme <br> <b>Author: Mauro de Souza</b> |
+
+### [📦 Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)<br>
+
+| Icon                                                                                                                                                                        | Description                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| <img src="https://simonsiefke.gallerycdn.vsassets.io/extensions/simonsiefke/svg-preview/2.8.3/1581688879196/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Preview for Svg files <br> <b>Author: Simon Siefke</b> |
+
+### [📦 Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)<br>
+
+| Icon                                                                                                                                                                      | Description                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <img src="https://bradlc.gallerycdn.vsassets.io/extensions/bradlc/vscode-tailwindcss/0.11.8/1693861691512/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Intelligent Tailwind CSS tooling for VS Code <br> <b>Author: Tailwind Labs</b> |
+
+### [📦 Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)<br>
+
+| Icon                                                                                                                                                                                    | Description                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| <img src="https://meganrogge.gallerycdn.vsassets.io/extensions/meganrogge/template-string-converter/0.6.1/1681403288998/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Converts a string to a template string when ${ is typed <br> <b>Author: meganrogge</b> |
+
+### [📦 vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)<br>
+
+| Icon                                                                                                                                                                                                 | Description                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="https://styled-components.gallerycdn.vsassets.io/extensions/styled-components/vscode-styled-components/1.7.8/1680721633849/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Syntax highlighting for styled-components <br> <b>Author: Styled Components</b> |
+
 ## 🎨 Themes included
 
 <table>
-    <tr>
-        <td><img src="https://1mandev.gallerycdn.vsassets.io/extensions/1mandev/badbug/3.0.3/1604585859613/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> </td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=1mandev.badbug" target="_blank">BADBUG Theme</a> </td>
-    </tr>
     <tr>
         <td><img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/7.2.0/1686298912208/Microsoft.VisualStudio.Services.Icons.Default" width="35px"> </td>
         <td><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple" target="_blank">Shades of Purple</a></td>
@@ -102,20 +140,12 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
       <td><a href="https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code" target="_blank">Nord</a></td>
     </tr>
     <tr>
-      <td><img src="https://azemoh.gallerycdn.vsassets.io/extensions/azemoh/one-monokai/0.5.0/1602835241556/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai" target="_blank">One Monokai Theme</a></td>
-    </tr>
-    <tr>
       <td><img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/dracula/2.2/1658152493111/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula" target="_blank">Dracula Official</a></td>
     </tr>
     <tr>
       <td><img src="https://eliverlara.gallerycdn.vsassets.io/extensions/eliverlara/andromeda/1.8.1/1681419874021/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
       <td><a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank">Andromeda</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://mathcale.gallerycdn.vsassets.io/extensions/mathcale/theme-dracula-refined/2.24.3/1659645707625/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=mathcale.theme-dracula-refined" target="_blank">Dracula Refined</a></td>
     </tr>
     <tr>
       <td><img src="https://modonoob.gallerycdn.vsassets.io/extensions/modonoob/vscode-hipster-theme/1.0.2/1530667778545/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></td>
