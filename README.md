@@ -8,11 +8,83 @@ Introducing my VS Code Extension Pack, the ultimate toolkit for web development.
 
 ## Extensions included
 
+### [📦 Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)<br>
+
+| Icon                                                                                                                                                                                 | Description                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.10/1644319230173/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does. <br> <b>Author: Jun Han<b> |
+
 ### [📦 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)<br>
 
 | Icon                                                                                                                                                                          | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://aaron-bond.gallerycdn.vsassets.io/extensions/aaron-bond/better-comments/3.0.2/1659144495902/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Improve your code commenting by annotating with alert, informational, TODOs, and more! <br> <b>Author: Aaron Bond<b> |
+
+### [📦 Codesnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)<br>
+
+| Icon                                                                                                                                                           | Description                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | 📷 Take beautiful screenshots of your code <br> <b>Author: adpyke<b> |
+
+### [📦 colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)<br>
+
+| Icon                                                                                                                                                                               | Description                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| <img src="https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.11.1/1619866227538/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | A vscode extension to help visualize css colors in files. <br> <b>Author: kamikillerto<b> |
+
+### [📦 ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)<br>
+
+| Icon                                                                                                                                                                              | Description                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/4.4.3/1645189962576/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier. <br> <b>Author: dsznajder<b> |
+
+### [📦 ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)<br>
+
+| Icon                                                                                                                                                                    | Description                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.4.2/1687441427519/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Integrates ESLint JavaScript into VS Code <br> <b>Author: Microsoft<b> |
+
+### [📦 Font Preview](https://marketplace.visualstudio.com/items?itemName=ctcuff.font-preview)<br>
+
+| Icon                                                                                                                                                               | Description                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| <img src="https://ctcuff.gallerycdn.vsassets.io/extensions/ctcuff/font-preview/2.2.1/1658365554442/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Preview fonts in VS Code <br> <b>Author: ctcuff<b> |
+
+### [📦 Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=teledemic.branch-warnings)<br>
+
+| Icon                                                                                                                                                                         | Description                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| <img src="https://teledemic.gallerycdn.vsassets.io/extensions/teledemic/branch-warnings/1.0.10/1638305011347/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Warn when you're on the wrong Git branch, like MAIN <br> <b>Author: Teledemic<b> |
+
+### [📦 Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)<br>
+
+| Icon                                                                                                                                                                            | Description                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <img src="https://bierner.gallerycdn.vsassets.io/extensions/bierner/github-markdown-preview/0.3.0/1651533762167/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Changes VS Code's built-in markdown preview to match GitHub <br> <b>Author: Matt Bierner<b> |
+
+### [📦 HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)<br>
+
+| Icon                                                                                                                                                                 | Description                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| <img src="https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/1.13.1/1659218422410/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | CSS Intellisense for HTML <br> <b>Author: ecmel<b> |
+
+### [📦 Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)<br>
+
+| Icon                                                                                                                                                                             | Description                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <img src="https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/live-server/0.5.2023080101/1690880853331/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Hosts a local server in your workspace for you to preview your webpages on. <br> <b>Author: Microsoft<b> |
+
+### [📦 markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)<br>
+
+| Icon                                                                                                                                                                               | Description                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| <img src="https://davidanson.gallerycdn.vsassets.io/extensions/davidanson/vscode-markdownlint/0.51.0/1686715384698/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Markdown linting and style checking for Visual Studio Code <br> <b>Author: David Anson</b> |
+
+### [📦 npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)<br>
+
+| Icon                                                                                                                                                                                       | Description                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/npm-intellisense/1.4.4/1671487986629/Microsoft.VisualStudio.Services.Icons.Default" width="100px"  > | Visual Studio Code plugin that autocompletes npm modules in import statements <br> <b>Author: Christian Kohler</b> |
 
 ## 🎨 Themes included
 
